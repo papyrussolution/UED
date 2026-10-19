@@ -114,7 +114,8 @@ if (file.getFormat() == Ued.DATAFORMAT_WEBP) {
 
 ## Tooling & Compiler
 
-The canonical compiler and verification tools are maintained as part of the [OpenPapyrus](https://github.com/papyrussolution/OpenPapyrus) ecosystem. The compiler validates strict backwards compatibility, checks SHA-256 integrity, and generates header files for target programming languages.
+The canonical compiler and verification tools are maintained as part of the [OpenPapyrus](https://github.com/papyrussolution/OpenPapyrus) ecosystem. 
+The [compiler](https://github.com/papyrussolution/OpenPapyrus/blob/master/ppy/bin/uedp.exe) validates strict backwards compatibility, checks SHA-256 integrity, and generates header files for target programming languages.
 
 ### Contributing & Porting
 Contributions to add missing global standards or to build code generators for other languages (**Rust, Go, Python, C#, TypeScript**) are very welcome!
