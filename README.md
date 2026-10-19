@@ -1,10 +1,10 @@
-# Universal Entity Definition (UED)
+# Unified Entity Definition (UED)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Format: Plain Text](https://img.shields.io/badge/Format-Plain%20Text-green.svg)](#file-format)
 [![Integrity: SHA--256](https://img.shields.io/badge/Integrity-SHA--256-orange.svg)](#versioning--integrity)
 
-**Universal Entity Definition (UED)** is a flat-file, 64-bit universal type and entity registry. It provides an immutable single source of truth (SSOT) for common real-world concepts, physical units, data formats, and compact semantic types across multiple programming languages.
+**Unified Entity Definition (UED)** is a flat-file, 64-bit universal type and entity registry. It provides an immutable single source of truth (SSOT) for common real-world concepts, physical units, data formats, and compact semantic types across multiple programming languages.
 
 ---
 
