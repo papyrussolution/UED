@@ -123,6 +123,6 @@ Contributions to add missing global standards or to build code generators for ot
 
 ## License
 
-This project is open-source and free to use in both commercial and non-commercial projects. See [LICENSE](LICENSE) for details.
+This project is open-source and free to use in both commercial and non-commercial projects.
 
 © A. Sobolev (2023–2026)
