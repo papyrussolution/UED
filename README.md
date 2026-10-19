@@ -1,8 +1,3 @@
-Вот готовый, профессиональный и лаконичный `README.md` на английском языке (стандарт для GitHub), который четко объясняет иностранным и русскоязычным разработчикам всю суть проекта.
-
----
-
-```markdown
 # Universal Entity Definition (UED)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -131,4 +126,3 @@ Contributions to add missing global standards or to build code generators for ot
 This project is open-source and free to use in both commercial and non-commercial projects. See [LICENSE](LICENSE) for details.
 
 © A. Sobolev (2023–2026)
-```
